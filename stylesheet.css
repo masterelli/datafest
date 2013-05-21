@@ -17,7 +17,7 @@ html {
 #content {
 	background-color: white;
 	display: inline-block;
-	height: 80%;
+	height: 500px;
 	width: 900px;
 	margin-top: 200px;
 	margin-bottom: 0px;
@@ -41,7 +41,7 @@ html {
 #content2 {
 	background-color: white;
 	display: inline-block;
-	height: 50%;
+	height: 350px;
 	width: 900px;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -55,6 +55,6 @@ html {
 iframe {
 	display: block;
 	margin-top: 40px;
-	margin-bottom: 0px;
+	margin-bottom: 40px;
 
 }
