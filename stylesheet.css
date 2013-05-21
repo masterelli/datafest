@@ -10,7 +10,7 @@ html {
 }
 
 @media screen and (max-device-width: 480px) {
-  .column {
+  .body {
     float: none;
   }
 }
