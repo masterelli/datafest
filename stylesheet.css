@@ -1,0 +1,50 @@
+html { 
+	background: url(pictures/background-01.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: black;
+
+}
+
+#content {
+	background-color: white;
+	display: inline-block;
+	height: 80%;
+	width: 900px;
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: -1;
+}
+
+#box {
+	background-color: white;
+	display: inline-block;
+	height: 50%;
+	width: 600px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: -1;
+}
+
+#content2 {
+	background-color: white;
+	display: inline-block;
+	height: 50%;
+	width: 900px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: -1;
+}
+
+
+
+iframe {
+	display: block;
+	margin-top: 40px;
+
+}
