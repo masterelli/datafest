@@ -8,6 +8,12 @@ html {
 
 }
 
+@media screen and (max-device-width: 480px) {
+  .column {
+    float: none;
+  }
+}
+
 #content {
 	background-color: white;
 	display: inline-block;
